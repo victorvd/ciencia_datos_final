@@ -1,3 +1,3 @@
 # Data Science
 
-Python code to implement EDA and supervised learning for test and learn dataframes.
+Python code to implement EDA and supervised learning to train and test data frames.
